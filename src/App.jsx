@@ -1,5 +1,6 @@
 import "./App.css";
 import GetInTouchComponent from "./get-in-touch/get-in-touch-component";
+import ImpactAtaGlanceComponent from "./Impact-at-a-glance/impact-at-a-glance-component";
 // import FlexBoxComponent from "./flex-box/flex-box-component";
 // import HelloWorldComponent from "./hello-world/hello-world-component";
 // import LeadersTomorrowComponent from "./leaders-tomorrow/leaders-tomorrow-component";
@@ -16,7 +17,8 @@ function App() {
       {/* <SymbolOfExcellenceComponent /> */}
       {/* <PostionComponent /> */}
       {/* <TrustedbyComponent /> */}
-      <GetInTouchComponent />
+      {/* <GetInTouchComponent /> */}
+      <ImpactAtaGlanceComponent />
     </div>
   );
 }
